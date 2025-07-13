@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Zettelkasten Blog',
   description: 'A personal knowledge base and blog',
-  base: '/km-obsidian-zettelkasten/',
+  base: '/z-zettelkasten/',
   srcDir: '.',
   
   themeConfig: {
@@ -24,7 +24,7 @@ export default defineConfig({
     },
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/km-obsidian-zettelkasten' }
+      { icon: 'github', link: 'https://github.com/z-zettelkasten' }
     ]
   },
   
