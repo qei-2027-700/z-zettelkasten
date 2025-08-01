@@ -1,4 +1,3 @@
-
 # **4月、B開発、カレー　アニメ作品など**
 - ロボノ、ロボティクス・ノーツ
 - 王様ランキング
@@ -11,7 +10,7 @@
 ---
 
 # Y
-rin
+## rin
 **ディオール**
 
 ハイライト
@@ -23,16 +22,11 @@ rin
 ほうらいけん
 
 うなぎ
-
 ひつまぶし
-
 有名
 
-  
-
-**服**
-
-coach
+### **服**
+- coach
 
 虎ノ門　エディション
 
@@ -54,12 +48,10 @@ coach
 
 [https://www.rikuro.co.jp/company/outline/](https://www.rikuro.co.jp/company/outline/)
 
-  
 # 曲
 - ハグ
 - ダーリン
 
-
-ca
+## coa
 いかほ、群馬
 [https://city.living.jp/citymate/citymate332/mate_going_out/1439912/#](https://city.living.jp/citymate/citymate332/mate_going_out/1439912/#)

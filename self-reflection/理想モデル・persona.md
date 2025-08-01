@@ -1,0 +1,80 @@
+一通り出したら、深掘りすること
+# 20250727
+
+- DR
+	- iza
+	- shinra
+- matrix
+	- neo
+	- merovindian
+- naruto
+	- senju-tobirama
+	- itachi
+	- kabuto
+	- sasori
+	- obito
+- DeathNote
+	- light
+	- L
+- usogui
+	- madarame-baku
+	- yakoh-hikoichi
+	- kadokura
+	- douji
+	- midara
+	- kiruma-tatuski
+	- hachina-naoki
+	- 所長
+	- nowa-mitora
+- hunter
+	- kurapika
+	- kuroro
+- Bakemono
+	- araragi-koyomi
+	- kanbaru-suruga
+	- gaen-izuko
+	- oshino-meme
+- chainsawman
+	- yoshida
+	- makima
+- persona3
+	- 主人公
+- persona5
+	- 主人公
+- DmC
+	- virgil
+## net・著名人
+- 唾奇
+- 本田圭佑
+- 塾長
+- 織田信長
+## real
+- toyoda
+	- 劣等感あっても
+	- 早稲田
+	- 英語学習している
+	- エンジニア五年経験して独立した。
+- 
+# 共通点
+- 洗練されている感
+- 矜持
+- 体鍛えている
+- 頭が良い
+- 自身がなさそう、ではない
+
+# その他思ったこと
+- 元はできないけど、、、すごい人になった系の人で惹かれない人
+	- usogui
+		- kaji-takaomi
+	- naruto
+		- iruka
+- 戦闘に特化している人
+	- usogui
+		- yakohB
+		- マルコ
+		- 伽羅
+- 幼少期悲惨だった系
+	- usogui
+		- jonryo
+# link
+- [[20250727：人生キャリア相談：池袋服部珈琲]]
